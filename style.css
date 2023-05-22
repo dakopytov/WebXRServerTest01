@@ -79,6 +79,7 @@
     .button-container {
       flex-wrap: wrap;
       height: auto;
+      padding-bottom: 60px;
     }
   
     .button {
